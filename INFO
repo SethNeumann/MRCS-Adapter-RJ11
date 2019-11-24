@@ -1,0 +1,9 @@
+title: MRCS-Adapter-RJ11
+project: MRCS-Adapter-RJ11
+designer: Seth Neuwmann
+fabricated: yes
+fab_date: 2018-12
+status: released
+release: yes
+category: MRCS
+tags: [eagle, MRCS]
