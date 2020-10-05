@@ -181,12 +181,12 @@ Black</text>
 White
 White
 Black</text>
-<text x="40.64" y="68.04" size="1.016" layer="51">2018.12   v1.0</text>
-<text x="40.64" y="39.37" size="1.016" layer="51">2018.12   v1.0</text>
-<text x="40.64" y="11.43" size="1.016" layer="51">2018.12   v1.0</text>
-<text x="90.17" y="11.43" size="1.016" layer="51">2018.12   v1.0</text>
-<text x="90.17" y="39.37" size="1.016" layer="51">2018.12   v1.0</text>
-<text x="90.17" y="68.04" size="1.016" layer="51">2018.12   v1.0</text>
+<text x="34.29" y="68.04" size="1.016" layer="51">2018.12   v1.0</text>
+<text x="34.29" y="39.37" size="1.016" layer="51">2018.12   v1.0</text>
+<text x="34.29" y="11.43" size="1.016" layer="51">2018.12   v1.0</text>
+<text x="83.82" y="11.43" size="1.016" layer="51">2018.12   v1.0</text>
+<text x="83.82" y="39.37" size="1.016" layer="51">2018.12   v1.0</text>
+<text x="83.82" y="68.04" size="1.016" layer="51">2018.12   v1.0</text>
 </plain>
 <libraries>
 <library name="SPCoast">
