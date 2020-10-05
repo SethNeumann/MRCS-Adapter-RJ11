@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="100" unitdist="mil" unit="mil" style="dots" multiple="1" display="yes" altdistance="50" altunitdist="mil" altunit="mil"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -979,19 +979,19 @@ http://www.tycoelectronics.com</description>
 </class>
 </classes>
 <parts>
-<part name="J1" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK"/>
-<part name="J2" library="con-rj" deviceset="RJ11" device=""/>
-<part name="J3" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK"/>
-<part name="J4" library="con-rj" deviceset="RJ11" device=""/>
-<part name="J5" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK"/>
-<part name="J6" library="con-rj" deviceset="RJ11" device=""/>
+<part name="J1" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK" value="0.100"/>
+<part name="J2" library="con-rj" deviceset="RJ11" device="" value="4P4C"/>
+<part name="J3" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK" value="0.100"/>
+<part name="J4" library="con-rj" deviceset="RJ11" device="" value="4P4C"/>
+<part name="J5" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK" value="0.100"/>
+<part name="J6" library="con-rj" deviceset="RJ11" device="" value="4P4C"/>
 <part name="FRAME1" library="frames" deviceset="FRAME_A_L" device=""/>
-<part name="J7" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK"/>
-<part name="J8" library="con-rj" deviceset="RJ11" device=""/>
-<part name="J9" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK"/>
-<part name="J10" library="con-rj" deviceset="RJ11" device=""/>
-<part name="J11" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK"/>
-<part name="J12" library="con-rj" deviceset="RJ11" device=""/>
+<part name="J7" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK" value="0.100"/>
+<part name="J8" library="con-rj" deviceset="RJ11" device="" value="4P4C"/>
+<part name="J9" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK" value="0.100"/>
+<part name="J10" library="con-rj" deviceset="RJ11" device="" value="4P4C"/>
+<part name="J11" library="SPCoast" deviceset="CONNECTOR-M04" device="LOCK" value="0.100"/>
+<part name="J12" library="con-rj" deviceset="RJ11" device="" value="4P4C"/>
 <part name="M1" library="SPCoast" deviceset="MOUNTINGHOLE" device=""/>
 <part name="M2" library="SPCoast" deviceset="MOUNTINGHOLE" device=""/>
 <part name="M3" library="SPCoast" deviceset="MOUNTINGHOLE" device=""/>
